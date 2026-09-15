@@ -1,0 +1,12 @@
+1) ¿Qué es Criptografía de Datos?
+2) ¿Diferencia conceptual entre Seguridad, Privacidad e integridad de datos?
+3) ¿Qué significa “Cifrado de datos”?
+4) ¿Cuántos métodos de cifrado existen y en qué consisten?
+5) ¿Ventajas y desventajas entre los métodos de cifrado conocidos (Cuadro comparativo)?
+6) ¿Cuáles son algoritmos de implementación del cifrado simétrico y asimétrico?
+7) ¿Cuál sería una explicación sintética de cada uno de estos algoritmos referenciados?
+8) ¿Tipo, carácter y pertenencia de claves en Criptografía?
+9) ¿A que llamamos "Propiedad de seguridad”? ¿Cuáles son?
+10) ¿Diferencias entre Cifrado, Certificación y Firma Digital?
+11) ¿Características distintivas del Software PGPWin4.31?
+12) ¿Qué son y en que consisten los módulos funcionales de seguridad Kleopatra, GnuPG y GpgEX?
