@@ -6,8 +6,6 @@ Este es un programa desarrollado en Python diseñado para extraer el contenido d
 
 El script principal (`main.py`) toma los archivos PDF como entrada, los procesa utilizando librerías de extracción de texto y genera archivos de salida legibles y livianos. 
 
-Para mantener el repositorio de GitHub optimizado y no superar los límites de tamaño (100 MB), los documentos PDF originales se guardan en una carpeta local llamada `defa/`, la cual está excluida del control de versiones mediante el archivo `.gitignore`.
-
 ## 🛠️ Requisitos
 
 - Python 3.11 (definido en `.python-version`)
