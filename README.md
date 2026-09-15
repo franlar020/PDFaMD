@@ -43,7 +43,3 @@ python main.py
 
 ---
 
-### 💡 Explicación extra de los comandos:
-* `python -m venv .venv`: Le dice a Python que cree un "entorno virtual" (una burbuja aislada) y que guarde todo en una carpeta llamada `.venv`. Al tenerla en el `.gitignore`, evitas que esta carpeta con miles de archivos de librerías se suba a GitHub.
-* `source .venv/Scripts/activate`: Es el comando específico para Git Bash en Windows que "enciende" esa burbuja para empezar a trabajar dentro de ella.
-* `pip install .`: En lugar de instalar librería por librería a mano, este comando lee el archivo de configuración de tu proyecto (`pyproject.toml`) e instala todas las dependencias necesarias de una sola vez.
